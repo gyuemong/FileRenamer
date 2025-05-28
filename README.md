@@ -1,6 +1,10 @@
 # File Renamer
 - DLSite의 정보를 기반으로 폴더/파일명을 수정하는 프로그램(A program that renames folders and files based on information retrieved from DLsite)
 
+## Important
+- 이 도구는 사용자의 편의를 위해 개발되었으며 사용 중 데이터 손실 등의 문제가 발생할 수도 있습니다. 문제점 발견 시 건의해주시고 **중요한 파일은 반드시 사전 백업을 권장합니다.**
+- This tool was developed for user convenience, but data loss or other issues may occur during use. If you encounter any problems, please report them via the issue tracker. **Always back up important files before using this tool.**
+
 ## ver1.0 기능
 ### 한국어
 - 윈도우 환경에서만 실행 가능
