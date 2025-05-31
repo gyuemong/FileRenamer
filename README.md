@@ -15,6 +15,18 @@
 - Allows indexing from DLsite using RJ or VJ numbers, then renames folders/files based on the retrieved information  
 - Supports Excel export of converted file lists (based on the most recently modified batch in this version)  
 
+## ver1.1 기능(사용법은 추후 수정 예정)
+### 한국어
+- 변경할 이름 기본값 설정
+- DLSite에서 색인 시 존재하지 않는 상품 혹은 AI 상품의 경우 빠르게 다음 작업으로 넘김
+- 가장 최근 작업 되돌리기 기능 추가(새로 [변경 미리보기] 버튼으로 작업 시작하는 경우 되돌리기 불가능)
+- 변경할 이름에 파일 확장자가 두 번 붙는 버그 수정
+### English
+- Added default name format setting for renaming
+- During DLSite indexing, non-existent or AI-tagged products are now quickly skipped
+- Added undo function for the most recent operation  (Undo is not available if a new operation is started via the [변경 미리보기] button)
+- Fixed a bug where the file extension was appended twice in the renamed filename
+
 ## 사용법
 ### 메인 화면
 ![스크린샷 2025-05-29 004114](https://github.com/user-attachments/assets/0592c726-c112-4698-82bb-da7d808d502d)
